@@ -1,0 +1,40 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#canvas{
+	
+}
+.header-logo{
+	background: #641984;
+}
+.list-group-item{
+	border:none;
+	text-align: center;
+	cursor: pointer;
+}
+.Groove{font-size: 20px !important; font-weight: 800 !important;margin:0px !important;}
+
+.list-group-item{
+	background: #641984;	
+	color: blue;
+}
+.highest-price{
+	background: #fff;
+}
+.msg{
+	background: #fff;
+	width: 100%;
+	margin:10px;
+	border-left: 4px solid green;
+}
+.canvas-holder{
+	background: red;
+}
+.hover_on{
+	background-color: red;
+}
+.color-bucket{
+	background: red;
+}
